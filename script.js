@@ -64,6 +64,7 @@ return faq;
 
 const faqData = [
 
+    
 new QAItem(
 "What is JavaScript?",
 "JavaScript is a scripting language used to make web pages interactive."
